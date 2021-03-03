@@ -165,6 +165,7 @@ const useGoogleBotSites = [
   'fd.nl',
   'genomeweb.com',
   'geelongadvertiser.com.au',
+  'goldcoastbulletin.com.au',
   'heraldsun.com.au',
   'lavoixdunord.fr',
   'mexiconewsdaily.com',

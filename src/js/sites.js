@@ -49,6 +49,7 @@ const defaultSites = {
   'Genomeweb': 'genomeweb.com',
   'Glassdoor': 'glassdoor.com',
   'Globes': 'globes.co.il',
+  'Gold Coast Bulletin': 'goldcoastbulletin.com.au',
   'Grubstreet' : 'grubstreet.com',
   'Haaretz English': 'haaretz.com',
   'Haaretz': 'haaretz.co.il',
