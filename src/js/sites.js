@@ -45,6 +45,7 @@ const defaultSites = {
   'First Things': 'firstthings.com',
   'Foreign Policy': 'foreignpolicy.com',
   'Fortune': 'fortune.com',
+  'Geelong Advertiser': 'geelongadvertiser.com.au',
   'Genomeweb': 'genomeweb.com',
   'Glassdoor': 'glassdoor.com',
   'Globes': 'globes.co.il',

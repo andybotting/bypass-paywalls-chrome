@@ -69,6 +69,7 @@
 [First Things](https://www.firstthings.com)\
 [Foreign Policy](https://www.foreignpolicy.com)\
 [Fortune](https://www.fortune.com)\
+[Geelong Advertiser](https://www.geelongadvertiser.com.au)\
 [Genomeweb](https://www.genomeweb.com)\
 [Glassdoor](https://www.glassdoor.com)\
 [Globes](https://www.globes.co.il)\
